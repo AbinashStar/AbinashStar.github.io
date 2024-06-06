@@ -16,7 +16,7 @@
 	bottom: 0;
 	left: 50%;
 	transform: translateX(-50%);
-	background-color: #3e8ed0;
+	background-color:lightgray;
 	z-index: -1;
 }
 
